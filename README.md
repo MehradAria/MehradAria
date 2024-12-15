@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/MehradAria/MehradAria/blob/main/wallpaper.jpg" alt="Mehrad Aria">
+  <img src="https://github.com/MehradAria/MehradAria/blob/main/header.jpg" alt="Mehrad Aria">
 </p>
 
 <h1 align="center">Mehrad Aria</h1> 
 
-<h3 align="left">👨‍🎓 About Me</h3> 
+<h3 align="left">👤 About Me</h3> 
 
 Welcome to my GitHub! I am Mehrad Aria, a passionate Health AI researcher, and creative engineer specializing in the intersection of artificial intelligence and health informatics. My work focuses on designing and deploying state-of-the-art deep learning algorithms to tackle complex data science challenges and predictive modeling in healthcare. I am particularly interested in applying advanced machine learning techniques, such as deep generative models and vision transformers, to medical data analytics and automated diagnosis. With a strong background in computer science, I am dedicated to translating theoretical concepts into practical solutions that drive innovation across industries. Here, you'll find projects that reflect my commitment to advancing personalized medicine and enhancing human-AI collaboration.
 
